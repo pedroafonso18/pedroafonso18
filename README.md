@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋  
+# Olá, eu sou o Pedro Afonso 👋  
 
 ## 🚀 Sobre mim  
 - 🔭 Atualmente trabalhando em uma API utilizando **GO** e **PHP**  
