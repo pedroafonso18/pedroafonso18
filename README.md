@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim  
 - 🔭 Atualmente trabalhando em uma API utilizando **GO** e **PHP**  
-- 🌱 Aprendendo **GO**  
+- 🌱 Aprendendo **GO**  e **Dart/Flutter**
 - 👯 Sempre aberto para colaborar em projetos interessantes!  
 - 💬 Desenvolvedor na **Meu Consig**  
 
@@ -13,7 +13,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 📫 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-afonso-silva-da-costa-97b046211/)  
