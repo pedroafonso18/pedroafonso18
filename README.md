@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro Afonso 👋  
 
 ## 🚀 Sobre mim  
-- 🔭 Atualmente trabalhando em uma API utilizando **GO** e **PHP**  
+- 🔭 Atualmente trabalhando no Painel Anas, uma API utilizando **GO** e **PHP**  
 - 🌱 Aprendendo **GO**  e **Dart/Flutter**
 - 👯 Sempre aberto para colaborar em projetos interessantes!  
 - 💬 Desenvolvedor na **Meu Consig**  
