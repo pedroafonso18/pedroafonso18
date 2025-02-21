@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente trabalhando no Painel Anas, uma API utilizando GO e PHP<br>🌱 Aprendendo GO e Dart/Flutter<br>👯 Sempre aberto para colaborar em projetos interessantes!<br>💬 Desenvolvedor na Meu Consig
+🔭 Atualmente trabalhando no Painel Anas, uma API utilizando GO e PHP<br>🌱 Aprendendo GO e Rust<br>👯 Sempre aberto para colaborar em projetos interessantes!<br>💬 Desenvolvedor na Meu Consig
 
 
 ## 🌐 Socials:
