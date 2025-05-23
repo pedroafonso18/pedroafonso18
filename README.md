@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente trabalhando em grepbutbetter, uma ferramenta CLI que visa resolver alguns problemas do GREP<br>🌱 Aprendendo C++ e Rust<br>👯 Sempre aberto para colaborar em projetos interessantes!<br>💬 Desenvolvedor na Meu Consig
+🔭 Atualmente trabalhando em grepbutbetter, uma ferramenta CLI que visa resolver alguns problemas do GREP<br>🌱 Aprendendo C e Rust<br>👯 Sempre aberto para colaborar em projetos interessantes!<br>💬 Desenvolvedor na Meu Consig
 
 
 ## 🌐 Socials:
