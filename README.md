@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente trabalhando em WaSolution, uma api wrapper sobre a Evolution e a Wuzapi<br>🌱 Aprendendo C/C++ e Rust<br>👯 Sempre aberto para colaborar em projetos interessantes!<br>💬 Desenvolvedor na Meu Consig
+🔭 Atualmente trabalhando em WaSolution, uma api wrapper sobre a Evolution e a Wuzapi<br>🌱 Aprendendo C/C++ e Zig<br>👯 Sempre aberto para colaborar em projetos interessantes!<br>💬 Desenvolvedor na Meu Consig
 
 
 ## 🌐 Socials:
